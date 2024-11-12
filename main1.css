@@ -69,15 +69,15 @@ body {
     z-index: 11;
     width: 520x;
     height: 95px;
-    padding-left: 3%;
-    padding-top: 3%;
+    padding-left: 9px;
+    padding-top: 9px;
     }
 
 .linkmain {
   z-index: 11;
   display: flex;
  padding-left: 73px;
- margin-top: 8ic;
+ margin-top: 100px;
  }
 
     .link1 {
@@ -168,8 +168,7 @@ body {
     }
 
      .textbig {
-      display: grid;
-      margin-top: 15%;
+      margin-top: 200px;
       margin-left: 73px;
       color: white;
       font-size: 20px;
@@ -178,25 +177,27 @@ body {
      }
 
      .textsmall {
-      display: grid;
       margin-top: 2%;
       margin-left: 73px;
-      margin-right: 40%;
       color: white;
       font-size: 15px;
       font-family:"helvetica";
   font-weight: 10;
      }
 
-     .maintextphoto {
+     .photo {
       display: flex;
+      margin-left: 250px;
+      float: right;
      }
 
-     .photo {
-      float: right;
-      margin-top: -5%;
+     .photo1 {
       width: 320px;
       height: 320px;
+    }
+
+     .inline {
+      display: flex;
      }
 
      .endtitle {
@@ -270,12 +271,10 @@ body {
      }
 
      .photo {
-      float: none;
       align-items: center;
       justify-content: center;
       text-align: center;
       margin: 0%;
-      margin-left: 75px;
       margin-top: 10%;
       width: 220px;
       height: 220px;
