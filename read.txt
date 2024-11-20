@@ -3,5 +3,3 @@ UPDATES
 VERSION:
 
 0.0.1 Add main site, fix bags
-
-fixнун
